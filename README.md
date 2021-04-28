@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I like to solve complex problems. If your interested in music and guitar check out my webapp [ArpeggiU](https://arpeggiu.com) 🎸.
+I like solving complex problems. If your interested in music and guitar check out my webapp [ArpeggiU](https://arpeggiu.com) 🎸.
