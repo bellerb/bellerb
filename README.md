@@ -11,6 +11,15 @@ I like solving complex problems. If your interested in music and guitar check ou
 - [Building a Chess Engine Part1](https://medium.com/@bellerb/building-a-chess-engine-part1-9758da877be7?source=rss-23c8cbe8ea3f------2)
 <!-- BLOG-POST-LIST:END -->
 
+### Github &#x1f4c8;
+<a href="https://github.com/bellerb">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellerb&hide=html,css&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/bellerb">
+  <img align="center" style="margin:0.5rem;width:395px;" src="https://github-readme-stats.vercel.app/api?username=bellerb&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1A2B34" alt="Ben's GitHub Stats" />
+</a>
+
 ### Technologies & Tools 🔧
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Apple-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
@@ -24,13 +33,3 @@ I like solving complex problems. If your interested in music and guitar check ou
 ![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
-
-
-### Github &#x1f4c8;
-<a href="https://github.com/bellerb">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellerb&hide=html,css&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/bellerb">
-  <img align="center" style="margin:0.5rem;width:395px;" src="https://github-readme-stats.vercel.app/api?username=bellerb&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1A2B34" alt="Ben's GitHub Stats" />
-</a>
