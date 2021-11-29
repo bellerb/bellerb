@@ -9,8 +9,8 @@ I like solving complex problems. If your interested in music and guitar check ou
 ## Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
 - [Playing Chess With A Generalized AI](https://medium.com/mlearning-ai/playing-chess-with-a-generalized-ai-b83d64ac71fe?source=rss-23c8cbe8ea3f------2)
-- [Building a Chess Engine Part2](https://medium.com/@bellerb/building-a-chess-engine-part2-db4784e843d5?source=rss-23c8cbe8ea3f------2)
-- [Building a Chess Engine Part1](https://medium.com/@bellerb/building-a-chess-engine-part1-9758da877be7?source=rss-23c8cbe8ea3f------2)
+- [Building a Chess Engine Part 2](https://towardsdatascience.com/building-a-chess-engine-part2-db4784e843d5?source=rss-23c8cbe8ea3f------2)
+- [Building a Chess Engine Part 1](https://medium.com/@bellerb/building-a-chess-engine-part1-9758da877be7?source=rss-23c8cbe8ea3f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github &#x1f4c8;
