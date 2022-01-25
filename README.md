@@ -8,7 +8,7 @@ I like solving complex problems. If your interested in music and guitar check ou
 
 ## Latest Blog Posts 📝
 <!-- MEDIUM:START -->
-- [Wordle Solver Using Python 3](https://towardsdatascience.com/wordle-solver-using-python-3-3c3bccd3b4fb?source=rss-23c8cbe8ea3f------2)
+- [Build a Wordle Solver Using Python 3](https://towardsdatascience.com/wordle-solver-using-python-3-3c3bccd3b4fb?source=rss-23c8cbe8ea3f------2)
 - [Why Player Of Games Is Needed](https://towardsdatascience.com/why-player-of-games-is-needed-a01505c4bad7?source=rss-23c8cbe8ea3f------2)
 - [Playing Chess With A Generalized AI](https://towardsdatascience.com/playing-chess-with-a-generalized-ai-b83d64ac71fe?source=rss-23c8cbe8ea3f------2)
 - [Building a Chess Engine: Part 2](https://towardsdatascience.com/building-a-chess-engine-part2-db4784e843d5?source=rss-23c8cbe8ea3f------2)
