@@ -6,11 +6,11 @@ I like solving complex problems. If your interested in music and guitar check ou
 
 ## Latest Blog Posts 📝
 <!-- MEDIUM:START -->
+- [Rubiks Cube Solver](https://medium.com/@bellerb/rubiks-cube-solver-96fa6c56fbe4?source=rss-23c8cbe8ea3f------2)
 - [Playing Chess With Offline Reinforcement Learning](https://towardsdatascience.com/playing-chess-with-offline-reinforcement-learning-411edc5efd5f?source=rss-23c8cbe8ea3f------2)
 - [Sudoku Solver](https://towardsdatascience.com/sudoku-solver-48cb2744fbd4?source=rss-23c8cbe8ea3f------2)
 - [Build a Wordle Solver Using Python 3](https://towardsdatascience.com/wordle-solver-using-python-3-3c3bccd3b4fb?source=rss-23c8cbe8ea3f------2)
 - [Why Player Of Games Is Needed](https://towardsdatascience.com/why-player-of-games-is-needed-a01505c4bad7?source=rss-23c8cbe8ea3f------2)
-- [Playing Chess With A Generalized AI](https://towardsdatascience.com/playing-chess-with-a-generalized-ai-b83d64ac71fe?source=rss-23c8cbe8ea3f------2)
 <!-- MEDIUM:END -->
 
 ## Github &#x1f4c8;
