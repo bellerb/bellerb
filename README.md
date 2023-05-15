@@ -5,7 +5,7 @@
 I like solving complex problems.
 
 ## Projects 👷‍♂️
-* [ArpeggiU](https://arpeggiu.com) 🎸 - Music tablature app, built with advanced AI to allow you to make music easier
+* [ArpeggiU](https://arpeggiu.com) 🎸 - Music tablature app, built with advanced AI to allow you to create music easier
 * [ModSave](https://modsave.app/) 🏎 - News aggegator for all the Motorsports, Car Culture and Sim Racing content from your favourite sites in one place
 
 ## Latest Blog Posts 📝
