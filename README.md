@@ -2,7 +2,11 @@
 
 ## Hi there 👋
 
-I like solving complex problems. If your interested in music and guitar check out my webapp [ArpeggiU](https://arpeggiu.com) 🎸. Or if you like Motorsports, Car Culture and Sim Racing content check out another webapp I built [ModSave](https://modsave.app/).
+I like solving complex problems.
+
+## Projects 👷‍♂️
+* [ArpeggiU](https://arpeggiu.com) 🎸 - Music tablature app, built with advanced AI to allow you to make music easier
+* [ModSave](https://modsave.app/) 🏎 - News aggegator for all the Motorsports, Car Culture and Sim Racing content from your favourite sites in one place
 
 ## Latest Blog Posts 📝
 <!-- MEDIUM:START -->
