@@ -5,8 +5,8 @@
 I like solving complex problems.
 
 ## Projects 👷‍♂️
+* [RealEstateContent.ai](https://www.realestatecontent.ai/) 🏠 - All in one social media content scheduler for Real Estate with automatic content generation using AI
 * [ArpeggiU](https://arpeggiu.com) 🎸 - Music tablature app, built with advanced AI to allow you to create music easier
-* [RealEstateContent.ai](https://modsave.app/](https://www.realestatecontent.ai/) 🏠 - All in one social media content scheduler for Real Estate with automatic generation using AI
 
 ## Latest Blog Posts 📝
 <!-- MEDIUM:START -->
